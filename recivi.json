@@ -1,0 +1,838 @@
+{
+  "$schema": "https://recivi.pages.dev/schemas/recivi-resume.json",
+  "bio": {
+    "name": "Rohan",
+    "fullName": "Rohan",
+    "summary": "Computer Science student based in the UK",
+    "labels": ["student"],
+    "aliases": ["rohxn","rohanmm","rohxnz"],
+    "contact": {
+      "emails": ["rohanmm@outlook.com"],
+      "phones": [
+        {
+          "countryCode": 44,
+          "number": "7305 057929"
+        }
+      ]
+    },
+    "image": "https://www.gravatar.com/avatar/0eab64adad056cff2492e7c407a9aa21?s=256",
+    "profiles": [
+      {
+        "site": {
+          "id": "whatsapp",
+          "name": "WhatsApp"
+        },
+        "url": "",
+        "username": ""
+      },
+      {
+        "site": {
+          "id": "github",
+          "name": "GitHub"
+        },
+        "url": "https://github.com/rohxn-o",
+        "username": "rohxn-o"
+      },
+      {
+        "site": {
+          "id": "linkedin",
+          "name": "LinkedIn"
+        },
+        "url": "",
+        "username": ""
+      },
+      {
+        "site": {
+          "id": "bluesky",
+          "name": "Bluesky"
+        },
+        "url": "",
+        "username": ""
+      },
+      {
+        "site": {
+          "id": "instagram",
+          "name": "Instagram"
+        },
+        "url": "",
+        "username": ""
+      },
+      {
+        "site": {
+          "id": "mastodon",
+          "name": "Mastodon"
+        },
+        "url": "",
+        "username": ""
+      }
+    ],
+    "skills": [
+      { "id": "python", "name": "Python"},
+      {
+        "name": "Web",
+        "subSkills": [
+          { "id": "html5", "name": "HTML" },
+          { "id": "css", "name": "CSS" },
+          { "id": "javascript", "name": "JS" },
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "speak": "native",
+        "listen": "native",
+        "write": "native",
+        "read": "native"
+      },
+      {
+        "name": {
+          "id": "hi",
+          "name": "हिन्दी",
+          "englishName": "Hindi"
+        },
+        "speak": "native",
+        "listen": "native",
+        "write": "native",
+        "read": "native"
+      },
+      {
+        "name": {
+          "id": "kfr",
+          "name": "કચ્છી",
+          "englishName": "Kutchi"
+        },
+        "speak": "native",
+        "listen": "native",
+        "read": "elementary"
+      },
+      {
+        "name": {
+          "id": "gu",
+          "name": "ગુજરાતી",
+          "englishName": "Gujarati"
+        },
+        "speak": "limited_working",
+        "listen": "professional_working",
+        "write": "limited_working",
+        "read": "limited_working"
+      },
+      {
+        "name": {
+          "id": "mr",
+          "name": "मराठी",
+          "englishName": "Marathi"
+        },
+        "speak": "professional_working",
+        "listen": "professional_working",
+        "write": "professional_working",
+        "read": "limited_working"
+      },
+      {
+        "name": {
+          "id": "fr",
+          "name": "Français",
+          "englishName": "French"
+        },
+        "speak": "elementary",
+        "listen": "elementary",
+        "write": "limited_working",
+        "read": "limited_working"
+      }
+    ],
+    "residence": {
+      "city": "the UK",
+      "countryCode": "GB"
+    },
+    "origin": {
+      "city": "Mumbai",
+      "state": "MH",
+      "countryCode": "IN"
+    }
+  },
+  "education": [
+    {
+      "id": "",
+      "name": "",
+      "shortName": "",
+      "url": {
+        "dest": "",
+        "label": ""
+      },
+      "address": {
+        "city": "",
+        "state": "",
+        "countryCode": "GB",
+        "postalCode": ""
+      },
+      "certs": [
+        {
+          "id": "gcse",
+          "name": "General Certificate of Secondary Education",
+          "shortName": "GCSEs",
+          "issue": [2024],
+          "period": {
+            "start": [2022],
+            "end": [2024]
+          },
+          "score": "8.4",
+          "maxScore": "9",
+          "field": "Varied",
+          "tags": ["resume_pdf"]
+        }
+      ]
+    }
+  ],
+  "work": [
+    {
+      "id": "",
+      "name": "",
+      "shortName": "",
+      "url": {
+        "dest": "",
+        "label": ""
+      },
+      "address": {
+        "city": "",
+        "state": "",
+        "countryCode": ""
+      },
+      "summary": "",
+      "description": "",
+      "roles": [
+        {
+          "id": "",
+          "name": "",
+          "period": {
+            "start": [2025, 1]
+          },
+          "type": "",
+          "location": "",
+          "epicIds": [""]
+        }
+      ]
+    }
+  ],
+  "creations": [
+    {
+      "id": "parsedotly",
+      "name": "Parse.ly",
+      "url": {
+        "dest": "https://parse.ly",
+        "label": "Parse.ly homepage"
+      },
+      "summary": "A content analytics platform for publishers.",
+      "description": "Parse.ly is a content analytics platform that helps digital publishers understand their audience and content performance.",
+      "writings": [
+        {
+          "id": "query_platform",
+          "name": "Query platform",
+          "role": "Creator",
+          "technologies": [
+            {
+              "id": "python",
+              "name": "Python"
+            },
+            {
+              "id": "django",
+              "name": "Django"
+            },
+            {
+              "id": "elasticsearch",
+              "name": "Elasticsearch",
+              "shortName": "ES"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "openverse",
+      "name": "Openverse",
+      "url": {
+        "dest": "https://openverse.org",
+        "label": "Openverse homepage"
+      },
+      "summary": "An open-source search engine for openly-licensed media.",
+      "description": "Openverse indexes 800M+ images and audio tracks from open APIs, public repositories, and the Common Crawl dataset. It facilitate reuse through features like automattic attribution.",
+      "writings": [
+        {
+          "id": "search_engine",
+          "name": "openverse.org",
+          "role": "Maintainer",
+          "summary": "The primary channel to search across 800M+ creative writings.",
+          "description": "The search engine at Openverse.org is one of the primary ways of accessing Openverse's massive index of openly-licensed media, either by searching for something specifically or browsing via collections.",
+          "highlights": [
+            "Migrated the codebase to a monorepo with intricate CI/CD.",
+            "Added privacy-friendly analytics for general usage metrics.",
+            "Created safeguards to prevent sensitive content exposure.",
+            "Evaluated & adopted PDM as the Python package manager.",
+            "Developed the <code>ov</code> environment for onboarding new devs."
+          ],
+          "technologies": [
+            {
+              "id": "typescript",
+              "name": "TypeScript",
+              "shortName": "TS"
+            },
+            {
+              "id": "nuxt",
+              "name": "Nuxt"
+            },
+            {
+              "id": "tailwindcss",
+              "name": "Tailwind"
+            },
+            {
+              "id": "vitest",
+              "name": "Vitest"
+            },
+            {
+              "id": "playwright",
+              "name": "Playwright"
+            }
+          ],
+          "tags": ["resume_pdf"]
+        },
+        {
+          "id": "api",
+          "name": "API",
+          "url": {
+            "dest": "https://api.openverse.org",
+            "label": "Openverse API"
+          },
+          "role": "Maintainer",
+          "summary": "Provides catalogue access to integrations via a RESTful API.",
+          "description": "The Openverse API is a RESTful interface to access Openverse's massive index of openly-licensed media. The API powers a number of high-profile integrations such as search engine <a href=\"https://kagi.com/\">Kagi</a> and learning platform <a href=\"https://www.sutori.com/en/\">Sutori</a>.",
+          "highlights": [
+            "Refactored to use Django REST framework best practices.",
+            "Generalised to support new media types, such as audio.",
+            "Created pipelines for individual & bulk content moderation."
+          ],
+          "technologies": [
+            {
+              "id": "python",
+              "name": "Python"
+            },
+            {
+              "id": "django",
+              "name": "Django"
+            },
+            {
+              "id": "postgresql",
+              "name": "PostgreSQL",
+              "shortName": "PSQL"
+            },
+            {
+              "id": "elasticsearch",
+              "name": "Elasticsearch",
+              "shortName": "ES"
+            }
+          ],
+          "tags": ["resume_pdf"]
+        },
+        {
+          "id": "infrastructure",
+          "name": "Infrastructure",
+          "role": "Maintainer",
+          "summary": "Openverse's IaC for <a href=\"https://aws.amazon.com/\">AWS</a>, <a href=\"https://cloudflare.com\">Cloudflare</a> & other services.",
+          "description": "Openverse's infrastructure uses <a href=\"https://aws.amazon.com/\">AWS</a>, <a href=\"https://cloudflare.com\">Cloudflare</a> & other services, which are managed as code to ensure reproducibility and scalability.",
+          "highlights": [
+            "Implemented monitoring with notification and alert workflows.",
+            "Executed software & platform updates for all services.",
+            "Performed periodic upkeep and rotation of resources."
+          ],
+          "technologies": [
+            {
+              "id": "terraform",
+              "name": "Terraform",
+              "shortName": "TF"
+            },
+            {
+              "id": "ansible",
+              "name": "Ansible"
+            },
+            {
+              "id": "docker",
+              "name": "Docker"
+            },
+            {
+              "id": "amazonwebservices",
+              "name": "AWS"
+            },
+            {
+              "id": "cloudflare",
+              "name": "cloudflare"
+            }
+          ],
+          "tags": ["resume_pdf"]
+        },
+        {
+          "id": "documentation",
+          "name": "Documentation",
+          "url": {
+            "dest": "https://docs.openverse.org",
+            "label": "Openverse documentation"
+          },
+          "role": "Author",
+          "summary": "The primary source of information for developers.",
+          "description": "Openverse has detailed documentation for developers contributing to the project, which also includes every project proposal, implementation plan and release note for the entire project.",
+          "highlights": [
+            "Conceived and initialised the documentation site.",
+            "Authored the setup, quickstart and maintenance guides.",
+            "Created workflows to deploy the main and preview doc sites."
+          ],
+          "technologies": [
+            {
+              "id": "sphinx",
+              "name": "Sphinx"
+            },
+            {
+              "id": "markdown",
+              "name": "Markdown",
+              "shortName": "MD"
+            },
+            {
+              "id": "storybook",
+              "name": "Storybook"
+            }
+          ]
+        },
+        {
+          "id": "raycast_ext",
+          "name": "Raycast plugin",
+          "url": {
+            "dest": "https://www.raycast.com/openverse/openverse",
+            "label": "Openverse in the Raycast Store"
+          },
+          "role": "Creator",
+          "summary": "Enables searching the Openverse catalogue from the desktop.",
+          "description": "This extension provides a way to search for Openverse images inside Raycast, browse through the top results, find a suitable image, obtain a copy of it and get attribution information, all with just a few keystrokes.",
+          "highlights": [
+            "Developed the plugin using Raycast APIs.",
+            "Provides image search, download, attribution and reporting."
+          ],
+          "technologies": [
+            {
+              "id": "typescript",
+              "name": "TypeScript",
+              "shortName": "TS"
+            },
+            {
+              "id": "raycast",
+              "name": "Raycast"
+            },
+            {
+              "id": "react",
+              "name": "React"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "browserstack",
+      "name": "Platform",
+      "summary": "",
+      "writings": [
+        {
+          "id": "email",
+          "name": "Email system",
+          "role": "Maintainer",
+          "summary": "A central email management system for the platform.",
+          "description": "BrowserStack's central email system was a comprehensive solution for sending all kinds of email (transactional and marketing), all while respecting user's communication preferences and never breaching GDPR regulations.",
+          "highlights": [
+            "Integrated multiple email providers into a single endpoint.",
+            "Seamlessly synced email opt-outs across multiple channels.",
+            "Provided insights into email deliverability and engagement.",
+            "Prevented breach of privacy regulations via detailed audit logs."
+          ],
+          "technologies": [
+            {
+              "id": "ruby",
+              "name": "Ruby"
+            },
+            {
+              "id": "rubyonrails",
+              "name": "Rails"
+            },
+            {
+              "id": "mailgun",
+              "name": "Mailgun"
+            },
+            {
+              "id": "mailchimp",
+              "name": "Mailchimp"
+            },
+            {
+              "id": "amazonwebservices",
+              "name": "AWS"
+            }
+          ]
+        },
+        {
+          "id": "users_billing",
+          "name": "Users/billing",
+          "role": "Maintainer",
+          "summary": "Manages user accounts, subscriptions, invoicing and payments.",
+          "description": "BrowserStack's user and billing platform handled everything from accounts and authentication to subscriptions, invoices and payments. It integrated with identity providers, subscription platforms and payment gateways.",
+          "highlights": [
+            "Oversaw the complex finite-state machine of subscription status.",
+            "Handled edge cases of state correction & dispute resolution.",
+            "Created a dashboard to aggregate complete history of a user."
+          ],
+          "technologies": [
+            {
+              "id": "ruby",
+              "name": "Ruby"
+            },
+            {
+              "id": "rubyonrails",
+              "name": "Rails"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "name": "Vocabulary",
+      "url": {
+        "dest": "https://cc-vocabulary.netlify.app",
+        "label": "Vocabulary homepage"
+      },
+      "summary": "A design system & component library for CC's web properties.",
+      "writings": [
+        {
+          "id": "ui_components",
+          "name": "UI components",
+          "role": "Creator",
+          "highlights": [
+            "Developed a system of design tokens and Vue components.",
+            "Documented UI patterns using an interactive Storybook."
+          ],
+          "technologies": [
+            {
+              "id": "javascript",
+              "name": "JavaScript"
+            },
+            {
+              "id": "vuedotjs",
+              "name": "Vue"
+            },
+            {
+              "id": "storybook",
+              "name": "Storybook"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "omniport",
+      "name": "Omniport",
+      "url": {
+        "dest": "https://channeli.in",
+        "label": "Omniport homepage"
+      },
+      "summary": "End‑to‑end platform & app ecosystem for institute web portals.",
+      "writings": [
+        {
+          "id": "infrastructure",
+          "name": "Infrastructure",
+          "url": {
+            "dest": "https://github.com/IMGIITRoorkee/omniport-docker",
+            "label": "GitHub repo for Omniport infrastructure"
+          },
+          "role": "Creator",
+          "highlights": [
+            "Designed architecture to be cloud-native and scalable.",
+            "Deployed as micro-services with Docker (+Compose)."
+          ],
+          "technologies": [
+            {
+              "id": "docker",
+              "name": "Docker"
+            },
+            {
+              "id": "gnubash",
+              "name": "Bash"
+            }
+          ]
+        },
+        {
+          "id": "backend",
+          "name": "Backend",
+          "url": {
+            "dest": "https://github.com/IMGIITRoorkee/omniport-backend",
+            "label": "GitHub repo for Omniport backend"
+          },
+          "role": "Creator",
+          "highlights": [
+            "Designed to be unopinionated, flexible & customisable.",
+            "Developed plug-&-play system for Django-based apps.",
+            "Added WebSockets support for real-time interactive apps."
+          ],
+          "technologies": [
+            {
+              "id": "python",
+              "name": "Python"
+            },
+            {
+              "id": "django",
+              "name": "Django"
+            },
+            {
+              "id": "postgresql",
+              "name": "PostgreSQL",
+              "shortName": "PSQL"
+            }
+          ]
+        },
+        {
+          "id": "documentation",
+          "name": "Documentation",
+          "url": {
+            "dest": "https://omniport.readthedocs.io",
+            "label": "Developer documentation for Omniport"
+          },
+          "role": "Author",
+          "summary": "The primary source of information for developers.",
+          "highlights": [
+            "Conceived and initialised the documentation site.",
+            "Authored <a href=\"https://documentation.divio.com/\">all 4 types</a> of documentation for the project.",
+            "Created the <a href=\"https://www.youtube.com/watch?v=jU7c4N0R3Vc\">Omniport launch video</a>."
+          ],
+          "technologies": [
+            {
+              "id": "sphinx",
+              "name": "Sphinx"
+            },
+            {
+              "id": "readthedocs",
+              "name": "reStructuredText",
+              "shortName": "reST"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pls",
+      "name": "pls",
+      "url": {
+        "dest": "https://pls.cli.rs",
+        "label": "`pls` homepage"
+      },
+      "summary": "A prettier and powerful <code>ls(1)</code> for the pros.",
+      "description": "<code>pls</code> is a prettier and powerful alternative to <code>ls(1)</code>, which adds many niche powerful features, is far more customisable and more easily customisable, and just <em>sparks joy</em>.",
+      "writings": [
+        {
+          "id": "cli_application",
+          "name": "CLI application",
+          "role": "Creator",
+          "summary": "An intuitive & elegant command-line interface.",
+          "description": "<code>pls</code> provides a very intuitive and elegant command-line interface with meaningful arguments, sane defaults and predictable behaviour.",
+          "highlights": [
+            "Enabled boundless customisation with cascading config files.",
+            "Included niche features for power users, like Git integration.",
+            "Added SVG support in terminal using Kitty graphics protocol."
+          ],
+          "technologies": [
+            {
+              "id": "rust",
+              "name": "Rust"
+            },
+            {
+              "id": "yaml",
+              "name": "YAML"
+            }
+          ],
+          "tags": ["resume_pdf"]
+        },
+        {
+          "id": "documentation",
+          "name": "Documentation",
+          "role": "Author",
+          "summary": "Thorough end-user documentation for all features.",
+          "description": "<code>pls</code> is accompanied by thorough documentation describing all the options, their behaviour and quirks, with adequate examples.",
+          "highlights": [
+            "Deployed as a static site with an automated CI + CD pipeline.",
+            "Created a pipeline to generate examples for every release."
+          ],
+          "technologies": [
+            {
+              "id": "python",
+              "name": "Python"
+            },
+            {
+              "id": "mdx",
+              "name": "MDX"
+            },
+            {
+              "id": "typescript",
+              "name": "TypeScript",
+              "shortName": "TS"
+            },
+            {
+              "id": "astro",
+              "name": "Astro"
+            },
+            {
+              "id": "starlight",
+              "name": "Starlight"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recivi",
+      "name": "Récivi",
+      "url": {
+        "dest": "https://recivi.pages.dev",
+        "label": "Recivi homepage"
+      },
+      "summary": "A new kind of résumé for computers and humans, in that order.",
+      "writings": [
+        {
+          "id": "schema",
+          "name": "Schema",
+          "url": {
+            "dest": "https://recivi.pages.dev/",
+            "label": "Récivi homepage"
+          },
+          "role": "Creator",
+          "summary": "A new kind of résumé for computers and humans, in that order.",
+          "highlights": [
+            "Developed the JSON schema and TypeScript interfaces.",
+            "This résumé was made with Récivi as a proof-of-concept!"
+          ],
+          "technologies": [
+            {
+              "id": "typescript",
+              "name": "TypeScript",
+              "shortName": "TS"
+            },
+            {
+              "id": "json",
+              "name": "JSON"
+            },
+            {
+              "id": "zod",
+              "name": "Zod"
+            }
+          ],
+          "tags": ["resume_pdf"]
+        },
+        {
+          "id": "documentation",
+          "name": "Documentation",
+          "role": "Creator",
+          "summary": "A new kind of résumé for computers and humans, in that order."
+        },
+        {
+          "id": "website",
+          "name": "Website",
+          "role": "Creator",
+          "summary": "Contains my homepage, interactive résumé and digital garden.",
+          "highlights": [
+            "Deployed as a static site with an automated CI + CD pipeline.",
+            "Used low-tech framewritings to ship negligible JS to the client."
+          ],
+          "technologies": [
+            {
+              "id": "typescript",
+              "name": "TypeScript",
+              "shortName": "TS"
+            },
+            {
+              "id": "astro",
+              "name": "Astro"
+            },
+            {
+              "id": "tailwindcss",
+              "name": "Tailwind"
+            },
+            {
+              "id": "alpinedotjs",
+              "name": "Alpine"
+            },
+            {
+              "id": "recivi",
+              "name": "Récivi",
+              "url": {
+                "dest": "https://recivi.pages.dev/",
+                "label": "Récivi homepage"
+              }
+            }
+          ],
+          "tags": ["resume_pdf"]
+        }
+      ]
+    },
+    {
+      "id": "2fac",
+      "name": "2Fac",
+      "url": {
+        "dest": "https://2fac.vercel.app",
+        "label": "2Fac homepage"
+      },
+      "summary": "An open-source web-based 2FA app that syncs via GitHub.",
+      "writings": [
+        {
+          "id": "totp_pwa",
+          "name": "TOTP PWA",
+          "role": "Creator",
+          "summary": "Time-based one-time password generator with clean UI.",
+          "highlights": [
+            "Used native UI elements for iOS and Android for cohesive UX.",
+            "Added data back up and sync via a private GitHub repo.",
+            "Provided offline functionality and data import/export."
+          ],
+          "technologies": [
+            {
+              "id": "typescript",
+              "name": "TypeScript"
+            },
+            {
+              "id": "ionic",
+              "name": "Ionic"
+            },
+            {
+              "id": "vuedotjs",
+              "name": "Vue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "skyscraper",
+      "name": "Skyscraper",
+      "summary": "Scrape everything.",
+      "writings": [
+        {
+          "id": "website",
+          "name": "Dubai properties",
+          "role": "Creator",
+          "summary": "Scrapes and aggregates information about Dubai properties.",
+          "technologies": [
+            {
+              "id": "python",
+              "name": "Python"
+            },
+            {
+              "id": "django",
+              "name": "Django"
+            },
+            {
+              "id": "htmx",
+              "name": "htmx"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

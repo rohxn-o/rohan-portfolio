@@ -75,10 +75,10 @@ function countryCodeDisplay(countryCode: string): string {
 export function addressDisplay(address: Address) {
   let text = countryCodeDisplay(address.countryCode)
   if (address.state) {
-    text = `${address.state}, ${text}`
+    text = `${address.state} ${text},`
   }
   if (address.city) {
-    text = `${address.city}, ${text}`
+    text = `${address.city} ${text},`
   }
   return text
 }
